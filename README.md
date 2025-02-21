@@ -7,7 +7,7 @@
 - [마크다운 문법](./src/md/markdown.md)
 - [회고](./src/md/retrospect.md)
 
-## 2차 과제
+## 2차 과제 아바타 시안
 
 - [아바타](./src/avatars/avatars.html)
 - [회고](./src/avatars/avatars.md)
